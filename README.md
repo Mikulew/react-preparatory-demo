@@ -1,4 +1,4 @@
-# vue-doors
+# react-preparatory-demo
 
 ## General info
 
